@@ -10,17 +10,15 @@ Each project in this repository was created for an academic assignment, lab, or 
 
 - Small programs and utilities
 - Course assignments and labs
-- Larger projects developed over multiple weeks
 - Experiments and practice implementations
 
-Projects are organized into folders, typically grouped by course or topic.
+Projects are organized into folders by taken classes.
 
 ## Purpose
 
 - Document academic progress
 - Showcase practical programming experience
 - Provide reference material for future work
-- Demonstrate growth over time
 
 ## Notes
 
